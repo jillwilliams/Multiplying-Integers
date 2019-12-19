@@ -1,0 +1,41 @@
+body {
+    font-family: "Architects Daughter", cursive;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    margin: 15px 35px 45px 35px;
+    background-color: black;
+    color: aqua;
+}
+h1 {
+    font-size: 1.5rem;
+    text-align: center;
+}
+#img1, #img2, #img3, #img4, #img5, #img6, #img7, #img8, #img9, #img10 {
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 15px;
+    border: 2px aqua solid;
+}
+#demo {
+    width: 30%;
+    height: 70px;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 15px;
+    border: 2px aqua solid;
+    font-family: "Architects Daughter", cursive;
+    font-size: 1.3rem;
+    text-align: center;
+    background-color: white;
+    color: black;
+
+}
+
+
+
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
